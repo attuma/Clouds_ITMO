@@ -2,4 +2,4 @@
 
 ## Лабораторные работы
 
-### [Лаба 2](https://claude.ai/chat/README_LAB2.md)
+### [Лаба 2](./README_LAB2.md)
