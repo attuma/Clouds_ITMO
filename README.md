@@ -13,4 +13,14 @@
 - Леонов Алексей 466498
 
 ---
-	
+
+<p align="center">
+  <img src="png_2.png" width="800" alt="Облака 3 семестр">
+</p>
+
+<h1 align="center">Облака 3 семестр</h1>
+<p align="center">
+  <img src="images/banner.png" width="800" alt="Облака 3 семестр">
+</p>
+
+<h1 align="center">Облака 3 семестр</h1>
