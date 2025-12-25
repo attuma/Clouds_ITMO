@@ -143,3 +143,8 @@ services:
 ```
 
 Но в нашем примере они полностью изолированы для максимальной безопасности.
+## 5. Запуск
+<img width="1280" height="175" alt="image" src="https://github.com/user-attachments/assets/2b170075-41b3-43af-9823-af196f08b53d" />
+<img width="1280" height="831" alt="image" src="https://github.com/user-attachments/assets/e4062414-0774-40eb-aaba-3f7ab86711af" />
+
+
